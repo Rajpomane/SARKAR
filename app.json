@@ -1,7 +1,7 @@
 {
-    "name": "ғᴀʟʟᴇɴ ダ ᴍᴜsɪᴄ",
+    "name": "『𝗕𝗥𝗔𝗡𝗗𝗘𝗗』| ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ 𝗞𝗜𝗡𝗚𓄂⃝🔱 𝗕 ❤️ 𝗪",
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/6f99c49bdb4679acad717.jpg",
+    "logo": "https://te.legra.ph/file/5d92f175dc3aa575ad65c.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -13,7 +13,7 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "23865598",
+        "value": "6258877205",
         "required": true
       },
       "API_HASH": {
@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "6004468325",
+        "value": "6258877205",
         "required": true
       },
       "SESSION": {
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "TKS_CHAT_OFFICIAL",
+        "value": "BRANDED_WORLD",
         "required": false
       }
     },
